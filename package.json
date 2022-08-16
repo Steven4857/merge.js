@@ -1,6 +1,6 @@
 {
   "name": "4857-merge.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "learn the process of omitjs",
   "main": "lib/index.js",
   "module": "es/index.js",
